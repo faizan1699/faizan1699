@@ -27,7 +27,7 @@
 
 ## `01` / About me
 
-I'm a full-stack software engineer with **4+ years of experience** building production-ready applications.
+I'm a full-stack software engineer with **6+ years of experience** building production-ready applications.
 
 - **Currently:** Senior Full Stack Engineer at Zyntrox
 - **Core stack:** React, Next.js, Node.js, TypeScript, PostgreSQL
@@ -41,7 +41,7 @@ I'm a full-stack software engineer with **4+ years of experience** building prod
 <table>
 <tr>
 <td align="center" width="25%">
-<h2>4+</h2>
+<h2>6+</h2>
 <sub>Years of experience</sub>
 </td>
 <td align="center" width="25%">
